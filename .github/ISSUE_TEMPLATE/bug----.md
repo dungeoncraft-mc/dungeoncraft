@@ -1,7 +1,7 @@
 ---
 name: Bug 回報單
 about: 詳細描述遇到的問題來幫助我們修正
-title: ''
+title: 填入問題的標題
 labels: '類別: bug'
 assignees: ''
 
